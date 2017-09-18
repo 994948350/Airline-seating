@@ -1,6 +1,6 @@
 # Data-structure_RPI
 
-Selected assingments from data structure course from rpi spring 2017
+Selected assingments from data structure course of rpi spring 2017
 
 topic included:
 1. airline seating
