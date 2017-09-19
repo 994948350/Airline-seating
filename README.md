@@ -1,6 +1,6 @@
 # Data-structure_RPI
 
-Selected assingments from data structure course of rpi spring 2017
+Selected assingments from data structure course of Rensselaer Polytechnic Institude, spring 2017
 
 topic included:
 1. airline seating (for loop)
@@ -11,3 +11,5 @@ topic included:
 6. word frequency map (map)
 7. radio song grouping (pointer to object)
 8. mini blast hash (hash table)
+
+I just simply upload thoes code to 'branch', and detail description for each code named as 'hw'
