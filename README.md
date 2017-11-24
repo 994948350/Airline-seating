@@ -1,8 +1,7 @@
 # Data-structure_RPI
 
-Selected assingments from data structure course of Rensselaer Polytechnic Institude, spring 2017
+data structure course of Rensselaer Polytechnic Institude, spring 2017
 
-topic included:
 1. airline seating (for loop)
 2. Gdb debuging& report (debug)
 3. B+ tree (graph, tree)
