@@ -11,5 +11,3 @@ topic included:
 6. word frequency map (map)
 7. radio song grouping (pointer to object)
 8. mini blast hash (hash table)
-
-I just simply upload thoes code to 'branch', and detail description for each code named as 'hw'
